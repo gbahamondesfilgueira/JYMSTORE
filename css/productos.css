@@ -1,0 +1,15 @@
+/* aqui pondre los estilos de las cajas de los productos como la casilla de descripcion
+y precios ademas de los de cada prenda o articulo*/
+
+
+
+
+.descripcion {
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin: 0;
+    align-self: center;
+}
+.precios {
+    margin: 0;
+}
