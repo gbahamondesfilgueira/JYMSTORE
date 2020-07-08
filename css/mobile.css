@@ -41,7 +41,7 @@
         .main-container-index {
         background-position-x: center;
         background-repeat: no-repeat;
-        background-position-y: inherit;
+        background-position-y: buttom;
         background-size: 100%;
         background-color: #0c151c;
         height: 768px;
