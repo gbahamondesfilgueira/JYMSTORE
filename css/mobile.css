@@ -7,7 +7,7 @@
         flex-wrap: wrap;
     } */
 }
-@media screen and (max-width:768px) {
+@media screen and (max-width:767px) 
     .header-container{
         display: grid;
         grid-template-columns: 1fr;
@@ -47,6 +47,7 @@
     }
     .main-container-index {
         background-position-x: center;
+        background-position-y:center;
         background-repeat: no-repeat;
         background-size: 120%;
         height: 100vh;
