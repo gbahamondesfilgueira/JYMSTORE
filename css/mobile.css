@@ -38,8 +38,19 @@
         justify-self: end;
         margin-right: 50px;
     }
+        .main-container {
+        background-position-x: center;
+        background-repeat: no-repeat;
+        background-position-y: inherit;
+        background-size: 100%;
+        background-color: #0c151c;
+        height: 500px;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+    }
     
 
 }
 
-}
