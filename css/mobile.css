@@ -8,6 +8,14 @@
     } */
 }
 @media screen and (max-width:906px) 
+    .header-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: #0c151c;
+    width: inherit;
+    height: 100px;
+    }
+    
 
 }
 @media screen and (max-width:480px) {
