@@ -46,15 +46,6 @@
         background-position: center;
     }
     .main-container-index {
-        background-position-x: center;
-        background-position-y:center;
-        background-repeat: no-repeat;
-        background-size: 100%;
-        height: 100vh;
-        justify-content: center;
-        align-items: center;
-        display: flex;
-        width:100%;
     }
     .main-container {
         width: 450px;
