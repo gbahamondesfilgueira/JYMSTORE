@@ -39,16 +39,9 @@
         margin-right: 50px;
     }
         .main-container-index {
-        background-position-x: center;
-        background-repeat: no-repeat;
-        background-position-y: buttom;
-        background-size: 100%;
-        background-color: #0c151c;
-        height: 768px;
-        width: 100%;
         justify-content: center;
         align-items: center;
-        display: flex;
+        display:grid;
     }
     
 
