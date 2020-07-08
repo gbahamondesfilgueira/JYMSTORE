@@ -39,11 +39,12 @@
         margin-right: 50px;
     }
         .main-container-index {
-         background-size: 100;
+         background-size: 100%;
         justify-content: center;
         align-items: center;
         display:grid;
         height:768px;
+        background-position-y: bottom;
     }
     
 
